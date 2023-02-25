@@ -269,24 +269,6 @@ body{
         }
 }
 
-.container .baker-blok div{
-    
-    margin-bottom: 200px;
-
-}
-.container .baker-blok   .mr{
-    margin: -20px 10px 10px -175px;
-    width: 200px;
-    height: 200px;
-    background-color: #ddd;
-
-}
-.container .baker-blok .ms{
-    margin-top: -50px;
-    width: 35px;
-    height: 250px;
-    background-color: #0f143b;
-}
 .portfolio {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
